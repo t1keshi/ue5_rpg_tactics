@@ -1,0 +1,6 @@
+# Ignoring Unreal Engine 5 files
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
